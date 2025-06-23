@@ -1,4 +1,4 @@
-# Finetuding Project
+# Finetuning Project
 
 # Classifier
 - https://huggingface.co/logicalqubit/deberta-v3-large-news-classifier
